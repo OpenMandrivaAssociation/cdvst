@@ -1,6 +1,6 @@
 %define	name	cdvst
 %define	version	0.18
-%define	release	%mkrel 9
+%define	release	%mkrel 10
 %define Summary	Certain Death via Space Things
 
 Summary:	%{Summary}
