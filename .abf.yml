@@ -1,3 +1,5 @@
 sources:
-  "cdvst-.18.tar.bz2:"	fe36b2dabfc127ad54c3e84429cf258f1c4f29db
-  "cdvst-icons.tar.bz2:"	e91f7be7a484d4e1d025656bd1009506ce716759
+  "cdvst-.18.tar.bz2": fe36b2dabfc127ad54c3e84429cf258f1c4f29db
+  "cdvst-icons.tar.bz2": e91f7be7a484d4e1d025656bd1009506ce716759
+  "cdvst-optflags.patch.bz2": 640226612a31bd303e0ba6abea562e039cabdde4
+  "cdvst-shared.patch.bz2": 13e36c8dd069f1489d3de8e8fcf408bfae145dea
