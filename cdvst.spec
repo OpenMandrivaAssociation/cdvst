@@ -1,6 +1,6 @@
 %define	name	cdvst
 %define	version	0.18
-%define	release	11
+%define release	12
 %define Summary	Certain Death via Space Things
 
 Summary:	%{Summary}
