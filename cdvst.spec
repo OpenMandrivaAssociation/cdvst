@@ -12,7 +12,7 @@ Source1:	%{name}-icons.tar.bz2
 Patch0:		%{name}-optflags.patch.bz2
 Patch1:		%{name}-shared.patch.bz2
 License:	GPLv2
-Url:		http://kokido.sourceforge.net/cdvst.html
+Url:		https://kokido.sourceforge.net/cdvst.html
 Group:		Games/Arcade
 BuildRequires:	pkgconfig(SDL_mixer)
 BuildRequires:	pkgconfig(SDL_image)
