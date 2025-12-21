@@ -14,6 +14,7 @@ Patch1:		%{name}-shared.patch.bz2
 License:	GPLv2
 Url:		https://kokido.sourceforge.net/cdvst.html
 Group:		Games/Arcade
+BuildRequires:	make
 BuildRequires:	pkgconfig(SDL_mixer)
 BuildRequires:	pkgconfig(SDL_image)
 BuildRequires:  desktop-file-utils
